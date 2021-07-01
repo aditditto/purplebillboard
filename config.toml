@@ -1,4 +1,4 @@
-baseURL = "git@github.com:aditditto/purplebillboard.git"
+baseURL = "https://aditditto.github.io/purplebillboard/"
 languageCode = "en-us"
 title = "Purple Billboard"
 theme = "cactus"
