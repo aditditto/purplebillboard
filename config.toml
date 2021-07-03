@@ -43,7 +43,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors."
+  description = "Welcome to purple billboard, a blog for me to write about whatever I want, which would probably be movies, music, anime, and programming. Hopefully after a while this blog will have some actual content.\n\nAlso I know this blog is more green than purple atm, idk maybe I'll make it purple maybe I wont"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -66,10 +66,10 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/aditditto"
   [[params.social]]
     name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    link = "https://www.linkedin.com/in/aditya-bimawan/"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "aditditto@gmail.com"  # no need for "mailto:" in the head
