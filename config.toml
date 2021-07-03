@@ -43,7 +43,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Welcome to purple billboard, a blog for me to write about whatever I want, which would probably be movies, music, anime, and programming. Hopefully after a while this blog will have some actual content.\n\nAlso I know this blog is more green than purple atm, idk maybe I'll make it purple maybe I wont"
+  description = "A blog about what I feel like"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
